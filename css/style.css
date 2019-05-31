@@ -41,6 +41,7 @@ body {
 
 .details > p {
     font-weight: 300;
+    font: times-new-roman;
     letter-spacing: 0.05em;
 }
 
